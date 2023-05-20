@@ -1,1 +1,3 @@
 # UniHub
+It is an online marketplace made using Django, Python and SQLite, for the student community in college. E-commerce site that connects students and local Sehore shop owners to VIT hostel. It is for various vendors, small shopkeepers, cab owners/drivers, and other sellers/students to list their services and products, thereby creating a transparent marketplace that meets the needs of students.
+In addition, it is a comprehensive platform that provides solutions for all the needs of college students, including buying daily necessities, transportation, club and events registration at one place.
